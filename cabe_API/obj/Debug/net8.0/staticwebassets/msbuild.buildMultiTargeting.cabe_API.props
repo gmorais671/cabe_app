@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cabe_API.props" />
+</Project>
